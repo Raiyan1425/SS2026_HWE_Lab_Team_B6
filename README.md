@@ -6,7 +6,7 @@
 - At Tatfif Hossan
 - Raiyanul Hasnat
 - Mouad Baig
-- Sayeed Anwar Seam
+- Md Sayeed Anwar Seam
 
 ## Project Description
 
